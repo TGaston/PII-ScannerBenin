@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sk4Jzjl7VtyxXzJznM/bczDpjSgK+GLKV4TlLV0WPpU=",
+  "Source": "PiiScanner.Api",
+  "BasePath": "_content/PiiScanner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
