@@ -51,3 +51,4 @@ C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Api\obj\Release\net8.
 C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Api\obj\Release\net8.0\PiiScanner.Api.pdb
 C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Api\obj\Release\net8.0\PiiScanner.Api.genruntimeconfig.cache
 C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Api\obj\Release\net8.0\ref\PiiScanner.Api.dll
+C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Api\obj\Release\net8.0\PiiScanner.Api.sourcelink.json

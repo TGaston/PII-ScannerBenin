@@ -10,3 +10,4 @@ C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Core\obj\Debug\net8.0
 C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Core\obj\Debug\net8.0\refint\PiiScanner.Core.dll
 C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Core\obj\Debug\net8.0\PiiScanner.Core.pdb
 C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Core\obj\Debug\net8.0\ref\PiiScanner.Core.dll
+C:\Users\samir\OneDrive\Desktop\MVP-PII-Scanner\PiiScanner.Core\obj\Debug\net8.0\PiiScanner.Core.sourcelink.json
