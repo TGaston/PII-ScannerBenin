@@ -369,3 +369,11 @@ C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\obj\Debug\net8.0\PiiS
 C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\obj\Debug\net8.0\PiiScanner.Api.genruntimeconfig.cache
 C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\obj\Debug\net8.0\ref\PiiScanner.Api.dll
 C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\web.config
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\appsettings.example.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\appsettings.example.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\appsettings.Production.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\PiiScanner.Api.deps.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\PiiScanner.Api.runtimeconfig.json
