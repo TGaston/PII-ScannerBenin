@@ -377,3 +377,4 @@ C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publ
 C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\appsettings.Production.json
 C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\PiiScanner.Api.deps.json
 C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\publish\PiiScanner.Api.runtimeconfig.json
+C:\Users\samir\OneDrive\Desktop\PII-Scanner\PiiScanner.Api\bin\Debug\net8.0\PiiScanner.Api.staticwebassets.runtime.json
