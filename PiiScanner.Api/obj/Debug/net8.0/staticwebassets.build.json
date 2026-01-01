@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ESLPjHrrrBq1jmSKqEgZshGhQEgXgl9gf2FGQFlYaLQ=",
+  "Hash": "xffFonYc3jvGCIrkctjQeeYxfe5/QfVw+a/R6okTJCk=",
   "Source": "PiiScanner.Api",
   "BasePath": "_content/PiiScanner.Api",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\samir\\OneDrive\\Desktop\\PII-Scanner\\PiiScanner.Api\\wwwroot\\assets\\index-D13HNyC0.js",
+      "Identity": "C:\\Users\\samir\\OneDrive\\Desktop\\PII-Scanner\\PiiScanner.Api\\wwwroot\\assets\\index-CjOyXdKc.js",
       "SourceId": "PiiScanner.Api",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\samir\\OneDrive\\Desktop\\PII-Scanner\\PiiScanner.Api\\wwwroot\\",
       "BasePath": "_content/PiiScanner.Api",
-      "RelativePath": "assets/index-D13HNyC0.js",
+      "RelativePath": "assets/index-CjOyXdKc.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-D13HNyC0.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-CjOyXdKc.js"
     },
     {
       "Identity": "C:\\Users\\samir\\OneDrive\\Desktop\\PII-Scanner\\PiiScanner.Api\\wwwroot\\assets\\index-DPxXKtTr.css",
