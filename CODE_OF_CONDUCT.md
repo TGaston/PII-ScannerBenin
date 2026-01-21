@@ -34,7 +34,8 @@ Ce Code de Conduite s'applique à la fois dans les espaces du projet et dans les
 
 ## Application
 
-Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à **contact@cyberprevs.fr**. Toutes les plaintes seront examinées et investiguées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de maintenir la confidentialité à l'égard du rapporteur d'un incident.
+Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à **contact@cyberprevs.fr**. 
+Toutes les plaintes seront examinées et investiguées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de maintenir la confidentialité à l'égard du rapporteur d'un incident.
 
 Les responsables du projet qui ne suivent pas ou n'appliquent pas le Code de Conduite de bonne foi peuvent faire face à des répercussions temporaires ou permanentes déterminées par d'autres membres de la direction du projet.
 
