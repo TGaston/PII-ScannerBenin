@@ -2,6 +2,7 @@
 
 Guide complet pour installer et utiliser PII Scanner en tant qu'application web.
 
+
 ---
 
 ## Option 1 : Version Standalone Windows (Recommandée)
