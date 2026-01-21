@@ -65,7 +65,7 @@ dotnet run
 ### Détection de 17 types de PII spécifiques au Bénin
 
 **Identité** : IFU, CNI, Passeport, RCCM, Acte de naissance
-**Contact** : Email, Téléphone (+229), MTN MoMo, Moov Money
+**Contact** : Email, Téléphone (+229)
 **Bancaire** : IBAN Bénin, Carte bancaire
 **Santé** : CNSS, RAMU
 **Éducation** : INE, Matricule fonctionnaire
