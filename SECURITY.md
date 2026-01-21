@@ -173,7 +173,7 @@ Toutes les entrées utilisateur sont validées :
    - Unicité
 
 4. **Mots de passe**
-   - Longueur minimale : 8 caractères
+   - Longueur minimale : 12 caractères
    - Hash avec BCrypt (salt automatique)
 
 5. **Noms de fichiers de sauvegarde**
